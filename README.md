@@ -29,7 +29,7 @@ The primary goal of BidDrop is to streamline the process of matching contractors
 - **Feedback and Collaboration:**  
   - The GitHub repo is used for tracking issues, feature requests, and ongoing improvements. This allows both developers and clients to provide continuous input into the project.
 
-## Likely Subcontractor Categories
+## Subcontractor Categories
 To cover a wide range of construction and renovation needs, BidDrop will likely include the following subcontractor categories:
 
 - **Electrical Contractors:** Specialists in wiring, lighting, and electrical installations.
