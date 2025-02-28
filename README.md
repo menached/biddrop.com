@@ -103,11 +103,8 @@ We welcome contributions from developers, clients, and industry experts. Please 
 - Report bugs, request features, and provide feedback via GitHub issues.
 - Ensure that all contributions maintain the integrity and security of the application.
 
-## License
-This project is licensed under the [Appropriate License]. Please refer to the LICENSE file for further details.
-
 ## Contact
-For inquiries or further information, please reach out via the project’s GitHub issues page or contact us at [contact information].
+For inquiries or further information, please reach out via the project’s GitHub issues page or contact us at [info@devopsandplatforms.com].
 
 ---
 
