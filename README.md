@@ -104,7 +104,7 @@ We welcome contributions from developers, clients, and industry experts. Please 
 - Ensure that all contributions maintain the integrity and security of the application.
 
 ## Contact
-For inquiries or further information, please reach out via the project’s GitHub issues page or contact us at [info@devopsandplatforms.com].
+For inquiries or further information, please reach out via the project’s GitHub issues page or contact us at info@devopsandplatforms.com.
 
 ---
 
