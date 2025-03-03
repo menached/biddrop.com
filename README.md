@@ -3,7 +3,7 @@
 ## Overview
 BidDrop is a web application designed to bridge the gap between general contractors and subcontractors. The platform enables contractors to post projects and subcontractors to monitor, bid, and compete for those projects. With a focus on transparency and ease of use, BidDrop empowers subcontractors—who will outnumber contractors—to find work opportunities and help contractors complete projects efficiently.
 
-This GitHub repository ([https://github.com/biddrop.com](https://github.com/dmenache/biddrop.com)) serves as a collaborative space for developers, clients, and other stakeholders to contribute feedback, track progress, and continuously improve the application.
+This GitHub repository ([https://github.com/dmenache/biddrop.com](https://github.com/dmenache/biddrop.com)) serves as a collaborative space for developers, clients, and other stakeholders to contribute feedback, track progress, and continuously improve the application.
 
 ## Purpose
 The primary goal of BidDrop is to streamline the process of matching contractors with skilled subcontractors. By providing a dedicated platform for project posting, bidding, and communication, the app aims to enhance efficiency and foster a competitive environment that benefits both parties.
